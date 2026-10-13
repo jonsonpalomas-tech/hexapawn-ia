@@ -1,4 +1,4 @@
-# Hexapawn com IA que aprende jogando
+﻿# Hexapawn com IA que aprende jogando
 
 IA em Python que aprende a jogar **Hexapawn** do zero, sem nenhuma estratégia programada. Ela começa escolhendo jogadas ao acaso e melhora a cada partida, reforçando as jogadas que levaram à vitória e descartando as que levaram à derrota.
 
@@ -27,8 +27,8 @@ Isso é uma forma simples de **aprendizado por reforço**: a IA não sabe as reg
 
 | Notebook | O que faz | Abrir |
 |---|---|---|
-| `hexapawn_humano_vs_ia.ipynb` | Você joga contra a IA clicando nas peças. Gráficos e histórico mostram a IA melhorando partida a partida. | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/palomaasss/hexapawn-ia/blob/main/notebooks/hexapawn_humano_vs_ia.ipynb) |
-| `hexapawn_ia_vs_ia.ipynb` | Duas IAs treinam uma contra a outra pelo número de partidas que você escolher, com animação opcional do tabuleiro. | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/palomaasss/hexapawn-ia/blob/main/notebooks/hexapawn_ia_vs_ia.ipynb) |
+| `hexapawn_humano_vs_ia.ipynb` | Você joga contra a IA clicando nas peças. Gráficos e histórico mostram a IA melhorando partida a partida. | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonsonpalomas-tech/hexapawn-ia/blob/main/notebooks/hexapawn_humano_vs_ia.ipynb) |
+| `hexapawn_ia_vs_ia.ipynb` | Duas IAs treinam uma contra a outra pelo número de partidas que você escolher, com animação opcional do tabuleiro. | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonsonpalomas-tech/hexapawn-ia/blob/main/notebooks/hexapawn_ia_vs_ia.ipynb) |
 
 Os notebooks usam widgets interativos do Google Colab. Para jogar, clique em "Abrir no Colab" e execute todas as células (Ambiente de execução → Executar tudo).
 
@@ -70,4 +70,4 @@ Python · ipywidgets · Matplotlib · Google Colab
 
 **Paloma Jonson**, estudante de Engenharia de Computação no Centro Universitário Senac
 
-[LinkedIn](https://www.linkedin.com/in/paloma-jonson) · [GitHub](https://github.com/palomaasss)
+[LinkedIn](https://www.linkedin.com/in/paloma-jonson) · [GitHub](https://github.com/jonsonpalomas-tech)
